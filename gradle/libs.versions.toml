@@ -46,7 +46,7 @@ mssql-r2dbc-driver = "0.9.0.RELEASE"
 
 # Testing and benchmarking
 
-benchmark-spring-data-mongodb = "4.1.1"
+benchmark-spring-data-mongodb = "4.7.0"
 benchmark-spring-data = "2021.1.4"
 spock = "2.0-groovy-3.0"
 cglib = "3.3.0"
